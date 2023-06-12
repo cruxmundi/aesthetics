@@ -167,4 +167,4 @@ The empty or unoccupied areas surrounding or between the objects or elements in 
 
 An art movement that prioritizes the concept or idea behind the artwork over its aesthetic or visual form. Conceptual art often challenges traditional notions of art, focusing on the intellectual and philosophical aspects.
 
-> Note: This glossary provides brief explanations, but each term can have broader implications and applications in different artistic disciplines and contexts. Further exploration and research are recommended to fully grasp the depth and significance of⬤
+> Note: This glossary provides brief explanations, but each term can have broader implications and applications in different artistic disciplines and contexts. Further exploration and research are recommended to fully grasp the depth and significance of each term.
