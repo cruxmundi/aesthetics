@@ -10,15 +10,44 @@ The world of aesthetics encompasses a wide range of artistic movements, theories
 
 The repository is organized into different sections, each focusing on a specific aesthetic concept. The following sections are included:
 
-- [Minimalism](./minimalism.md)
-- [Surrealism](./surrealism.md)
-- [Symbolism](./symbolism.md)
-- [Cubism] (./cubism.md)
-- [Impressionsim] (./impressionism.md)
-- [Expressionism] (./expressionism.md)
-- [Pop Art] (./popart.md)
-- [Dadism] (.dadism.md)
-- [Postmodernism] (./postmodernism)
+- Minimalism
+- Surrealism
+- Symbolism
+- Cubism
+- Impressionsim
+- Expressionism
+- Pop Art
+- Dadism
+- Postmodernism
+- Romanticism
+- Realism
+- Fauvism
+- Constructivism
+- Art Nouveau
+- Renaissance
+- Baroque
+- Rococo
+- Neoclassicism
+- Land Art
+- Installation Art
+- Performance Art
+- Photorealism
+- Suprematism
+- De Stijl
+- Bauhaus
+- Futurism
+- Fluxus
+- Neue Sachlichkeit
+- Primitivism
+- Arte Povera
+- Body Art
+- Social Realism
+- Tonalism
+- Precisionism
+- Postimpressionism
+- Conceptualism
+- Hyperrealism
+- Transcendentalism
 
 Please refer to each section for detailed information about the respective aesthetic concept. Each section contains written explanations, definitions, and examples that shed light on the key characteristics and significance of the concept.
 
