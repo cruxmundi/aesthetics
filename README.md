@@ -13,6 +13,12 @@ The repository is organized into different sections, each focusing on a specific
 - [Minimalism](./minimalism.md)
 - [Surrealism](./surrealism.md)
 - [Symbolism](./symbolism.md)
+- [Cubism] (./cubism.md)
+- [Impressionsim] (./impressionism.md)
+- [Expressionism] (./expressionism.md)
+- [Pop Art] (./popart.md)
+- [Dadism] (.dadism.md)
+- [Postmodernism] (./postmodernism)
 
 Please refer to each section for detailed information about the respective aesthetic concept. Each section contains written explanations, definitions, and examples that shed light on the key characteristics and significance of the concept.
 
