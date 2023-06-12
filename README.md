@@ -4,7 +4,7 @@ This repository compiles and documents various aesthetic concepts, theories, and
 
 ## Introduction
 
-The world of aesthetics encompasses a wide range of artistic movements, theories, and philosophies that have shaped the history of art and influenced our perception of beauty. This repository aims to provide written explanations, definitions, and examples of key aesthetic terms to foster a deeper understanding of various artistic concepts.
+The world of aesthetics encompasses a wide range of artistic movements, theories, and philosophies that have influenced our perception of beauty. This repository aims to provide written explanations, definitions, and examples of key aesthetic terms to foster a deeper understanding of various artistic concepts.
 
 ## Contents
 
