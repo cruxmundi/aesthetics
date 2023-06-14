@@ -13,7 +13,7 @@ This repository contains code and data related to the aesthetics relational anal
 
 To reproduce the analysis or explore the code in this repository, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/aesthetics-relational-analysis.git`
+1. Clone the repository to your local machine: `git clone [https://github.com/cruxmundi/aesthetics.git]`
 2. Navigate to the cloned directory: `cd aesthetics-relational-analysis`
 3. Install any necessary dependencies.
 4. Run the code or scripts provided in the `code/` directory.
