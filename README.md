@@ -1,71 +1,40 @@
-# Aesthetic Concepts Repository
+# Aesthetics Relational Analysis Repository
 
-This repository compiles and documents various aesthetic concepts, theories, and philosophies. It serves as a reference for researchers, students, and enthusiasts interested in understanding different aesthetic principles.
+This repository contains code and data related to the aesthetics relational analysis project. The project focuses on exploring the relationships and connections between various aesthetic concepts, theories, and trends. By conducting a relational analysis, we aim to gain insights into the underlying structures and patterns in aesthetics.
 
-## Introduction
+## Repository Structure
 
-The world of aesthetics encompasses a wide range of artistic movements, theories, and philosophies that have influenced our perception of beauty. This repository aims to provide written explanations, definitions, and examples of key aesthetic terms to foster a deeper understanding of various artistic concepts.
+- `data/`: This directory contains the datasets used for the analysis.
+- `code/`: This directory contains the code for conducting the aesthetic relational analysis.
+- `results/`: This directory stores the results and findings of the analysis.
+- `docs/`: This directory contains additional documentation, including research papers, reports, and presentation slides.
 
-## Contents
+## Getting Started
 
-The repository is organized into different sections, each focusing on a specific aesthetic concept. The following sections are included:
+To reproduce the analysis or explore the code in this repository, follow these steps:
 
-- Minimalism
-- Surrealism
-- Symbolism
-- Cubism
-- Impressionsim
-- Expressionism
-- Pop Art
-- Dadism
-- Postmodernism
-- Romanticism
-- Realism
-- Fauvism
-- Constructivism
-- Art Nouveau
-- Renaissance
-- Baroque
-- Rococo
-- Neoclassicism
-- Land Art
-- Installation Art
-- Performance Art
-- Photorealism
-- Suprematism
-- De Stijl
-- Bauhaus
-- Futurism
-- Fluxus
-- Neue Sachlichkeit
-- Primitivism
-- Arte Povera
-- Body Art
-- Social Realism
-- Tonalism
-- Precisionism
-- Postimpressionism
-- Conceptualism
-- Hyperrealism
-- Transcendentalism
-
-Please refer to each section for detailed information about the respective aesthetic concept. Each section contains written explanations, definitions, and examples that shed light on the key characteristics and significance of the concept.
+1. Clone the repository to your local machine: `git clone https://github.com/your-username/aesthetics-relational-analysis.git`
+2. Navigate to the cloned directory: `cd aesthetics-relational-analysis`
+3. Install any necessary dependencies.
+4. Run the code or scripts provided in the `code/` directory.
+5. View the results in the `results/` directory.
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have additional aesthetic concepts, theories, or philosophies that you would like to include, please follow these steps:
+We welcome contributions to enhance and expand the aesthetics relational analysis. If you would like to contribute, please follow these guidelines:
 
 1. Fork the repository.
-2. Create a new branch for your additions.
-3. Add your content in Markdown format, following the existing structure.
-4. Submit a pull request, explaining the changes you have made.
-
-Please ensure that your contributions adhere to the repository's guidelines and maintain the focus on aesthetic concepts and principles.
+2. Create a new branch for your feature or improvement.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request with a clear description of your changes.
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE). Feel free to use and distribute the content with proper attribution.
+This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding this repository, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
+For any questions or inquiries, please contact:
+
+- Symeon: symeon@cruxmundi.com
