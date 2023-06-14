@@ -1,6 +1,6 @@
 # Aesthetics Relational Analysis Repository
 
-This repository contains code and data related to the aesthetics relational analysis project. The project focuses on exploring the relationships and connections between various aesthetic concepts, theories, and trends. By conducting a relational analysis, we aim to gain insights into the underlying structures and patterns in aesthetics.
+This repository contains code and data related to the CRUX MUNDI aesthetics relational analysis project. The project focuses on exploring the relationships between various aesthetic concepts, theories, and trends. By conducting a relational analysis, we aim to gain insights into the underlying patterns in aesthetics.
 
 ## Repository Structure
 
