@@ -24,7 +24,7 @@ This document serves as a record of research findings and analysis related to ae
 - **Factors Driving the Shift:** Cultural movements towards decluttering, sustainability, and mindfulness; advancements in technology and digital interfaces; influence of Japanese aesthetics (e.g., Zen philosophy, wabi-sabi)
 - **Applications:** Minimalism is prevalent in various design fields, including graphic design, architecture, interior design, and fashion. Its principles of simplicity and elegance have shaped user experiences, branding, and spatial design.
 
-> ## Study: The Influence of Cultural Background on Aesthetic Preferences
+## Study: The Influence of Cultural Background on Aesthetic Preferences
 
 - **Research Question:** How does an individual's cultural background shape their aesthetic preferences?
 - **Methodology:** Cross-cultural survey conducted with participants from diverse cultural backgrounds, presenting them with a range of artworks from different artistic movements and asking them to rate their aesthetic appeal.
