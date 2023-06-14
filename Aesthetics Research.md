@@ -78,8 +78,6 @@ This document serves as a record of research findings and analysis related to ae
     - Technology and Design: Cyberpunk has had a significant impact on the design of futuristic technologies, fashion, and visual aesthetics in the digital realm.
     - Speculative Futures: Cyberpunk offers a critical lens to explore the consequences of technology, surveillance, and social inequality, prompting discussions about the future of society.
 
-These are just a few examples of how aesthetic movements have intersected with various sectors or industries, showcasing the wide-ranging impact that art and aesthetics can have on our culture, technology, and creative expressions.
-
 ## Cultural Shift: The Rise of Minimalism in Design
 
 - **Time Period:** Late 20th century to present
