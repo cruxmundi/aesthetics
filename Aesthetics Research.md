@@ -12,7 +12,7 @@ This document serves as a record of research findings and analysis related to ae
 ## Analysis: Relational Aesthetics Analysis
 
 - **Artistic Movements:** All
-- **Analysis:** Certainly! Here's an expanded analysis of the impact of aesthetic movements on various sectors or industries:
+- **Analysis:**  Analyzing the impact of aesthetic movements on various industries:
 
 Ancient Greek Art:
    - Architecture: Ancient Greek architecture, characterized by the use of columns and balanced proportions, has influenced architectural styles throughout history.
