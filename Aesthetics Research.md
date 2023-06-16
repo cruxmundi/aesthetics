@@ -9,7 +9,7 @@ This document serves as a record of research findings and analysis related to ae
 - **Findings:** The study found that warm colors (e.g., red, orange) tend to evoke feelings of warmth, energy, and excitement, while cool colors (e.g., blue, green) are associated with calmness, tranquility, and relaxation. Additionally, certain colors (e.g., yellow) were linked to happiness and optimism.
 - **Implications:** Artists and designers can use color strategically to elicit specific emotional responses from viewers, enhancing the overall aesthetic experience.
 
-## Analysis: Surrealism and Freudian Psychology
+## Analysis: Relational Aesthetics Analysis
 
 - **Artistic Movements:** All
 - **Analysis:** Certainly! Here's an expanded analysis of the impact of aesthetic movements on various sectors or industries:
